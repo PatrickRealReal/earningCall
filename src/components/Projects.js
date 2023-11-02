@@ -66,7 +66,7 @@ export const Projects = () => {
 
     useEffect(() => {
         // 监听 value 的变化动态设置 renderData
-        const modelLabels = ["Baseline", "DT", "RF", "LR", "SVM", "NB", "Knn"];
+        const modelLabels = ["Baseline", "DT", "RF", "LR", "SVM", "NB", "kNN"];
 
         if (value === 'R'){
             setRenderData([{
@@ -222,11 +222,11 @@ export const Projects = () => {
                         <p>Performance of different machine learning models, where the results are av- eraged over
                             5-fold cross-validation.</p>
                         <Form.Select value={value} onChange={changeSelect}
-                                     style={{width: '80px', margin: '0px 0 20px', background: '#000', color: '#fff'}}
+                                     style={{width: '117px', margin: '0px 0 20px', background: '#000', color: '#fff'}}
                                      aria-label="Default select example">
-                            <option value="R">R</option>
-                            <option value="P">P</option>
-                            <option value="F1">F1</option>
+                            <option value="R">Recall</option>
+                            <option value="P">Precision</option>
+                            <option value="F1">F1-score</option>
                         </Form.Select>
                         <Row>
                             <Col Col span={8} className="project-image-col">
