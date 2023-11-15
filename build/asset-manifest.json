@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/earningCall/static/css/main.8cd79272.css",
+    "main.js": "/earningCall/static/js/main.6be9d337.js",
+    "static/js/787.16e90c03.chunk.js": "/earningCall/static/js/787.16e90c03.chunk.js",
+    "static/media/zhuoer_xu.jpg": "/earningCall/static/media/zhuoer_xu.f5eabdd7692be4dfb823.jpg",
+    "static/media/color-sharp.png": "/earningCall/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/earningCall/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/performance_ml_model.png": "/earningCall/static/media/performance_ml_model.30b4d397e7df7b57f469.png",
+    "static/media/CentraNo2-Bold.ttf": "/earningCall/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/earningCall/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/earningCall/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/earningCall/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/earning-call.jpeg": "/earningCall/static/media/earning-call.6c0826ce3daf94734335.jpeg",
+    "static/media/revicons.eot": "/earningCall/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/earningCall/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/earningCall/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/earningCall/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/earningCall/index.html",
+    "main.8cd79272.css.map": "/earningCall/static/css/main.8cd79272.css.map",
+    "main.6be9d337.js.map": "/earningCall/static/js/main.6be9d337.js.map",
+    "787.16e90c03.chunk.js.map": "/earningCall/static/js/787.16e90c03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cd79272.css",
+    "static/js/main.6be9d337.js"
+  ]
+}

@@ -56,7 +56,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to our project</span>
-                <h1>{`Hi! This is our Paper project: Corporate Event Prediction Using Earning Call Transcripts. Author:`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Zhaomin Xiao", "Zhelu Mai", "Zhuoer Xu" ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Corporate Event Prediction Using Earning Call Transcripts. Author:`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Zhaomin Xiao", "Zhelu Mai", "Zhuoer Xu" ]'><span className="wrap">{text}</span></span></h1>
                   <p>This paper addresses the task of predicting the occurrence of corporate events based on earning call transcripts. We introduce a novel dataset of earning call transcripts specifically curated for corporate event prediction. Through a comprehensive analysis, we explore what kind of information is presented in the transcripts that can be utilized for event prediction. Our experimental results with various machine learning models demonstrate the feasibility of automating this challenging task.</p>
               </div>}
             </TrackVisibility>

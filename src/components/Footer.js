@@ -6,7 +6,7 @@ export const Footer = () => {
       <Container>
         {/* <Row className="align-items-center"> */}
         <Col size={12} sm={6} className="ms-auto d-flex justify-content-end">
-            <p>Copyright 2023 Zhuoer - All Rights Reserved </p>
+            <p>Copyright 2023 Zhuoer Xu - All Rights Reserved </p>
           </Col>
         {/* </Row> */}
       </Container>
